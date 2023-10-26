@@ -1,0 +1,12 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.red-c {
+    color: rgb(168, 53, 53);
+}
+
+.green-c {
+    color: rgb(31, 127, 31);
+}
